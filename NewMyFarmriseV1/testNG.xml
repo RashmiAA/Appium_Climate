@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NewMyFarmrise">
+  <test name="test">
+    <classes>
+       <class name="farmRise.FarmRiseTestNg"></class>
+    </classes>
+  </test>
+</suite>
